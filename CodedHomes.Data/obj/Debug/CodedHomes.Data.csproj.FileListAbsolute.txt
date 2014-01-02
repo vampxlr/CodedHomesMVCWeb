@@ -17,7 +17,6 @@ G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Data\bin\Debug\CodedHomes.Data.d
 G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Data\bin\Debug\CodedHomes.Data.pdb
 G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Data\bin\Debug\CodedHomes.Models.dll
 G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Data\bin\Debug\DataAnnotationsExtensions.dll
-G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Data\bin\Debug\Devtalk.EF.CodeFirst.dll
 G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Data\bin\Debug\EntityFramework.dll
 G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Data\bin\Debug\Microsoft.Web.Infrastructure.dll
 G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Data\bin\Debug\WebActivator.dll

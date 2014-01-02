@@ -4,7 +4,6 @@ G:\Web Projects\CodedHomesDefaultWeb\aCodedHomes.Web\bin\Antlr3.Runtime.dll
 G:\Web Projects\CodedHomesDefaultWeb\aCodedHomes.Web\bin\CodedHomes.Data.dll
 G:\Web Projects\CodedHomesDefaultWeb\aCodedHomes.Web\bin\CodedHomes.Models.dll
 G:\Web Projects\CodedHomesDefaultWeb\aCodedHomes.Web\bin\DataAnnotationsExtensions.dll
-G:\Web Projects\CodedHomesDefaultWeb\aCodedHomes.Web\bin\Devtalk.EF.CodeFirst.dll
 G:\Web Projects\CodedHomesDefaultWeb\aCodedHomes.Web\bin\DotNetOpenAuth.AspNet.dll
 G:\Web Projects\CodedHomesDefaultWeb\aCodedHomes.Web\bin\DotNetOpenAuth.Core.dll
 G:\Web Projects\CodedHomesDefaultWeb\aCodedHomes.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll

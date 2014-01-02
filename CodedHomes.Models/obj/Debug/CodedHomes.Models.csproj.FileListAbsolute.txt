@@ -7,7 +7,6 @@ E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-l
 G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\bin\Debug\CodedHomes.Models.dll
 G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\bin\Debug\CodedHomes.Models.pdb
 G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\bin\Debug\DataAnnotationsExtensions.dll
-G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\bin\Debug\Devtalk.EF.CodeFirst.dll
 G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\bin\Debug\EntityFramework.dll
 G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
 G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\bin\Debug\WebActivator.dll
