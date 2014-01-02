@@ -4,3 +4,14 @@ E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-l
 E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Models\obj\Debug\CodedHomes.Models.csprojResolveAssemblyReference.cache
 E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Models\obj\Debug\CodedHomes.Models.dll
 E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Models\obj\Debug\CodedHomes.Models.pdb
+G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\bin\Debug\CodedHomes.Models.dll
+G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\bin\Debug\CodedHomes.Models.pdb
+G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\bin\Debug\DataAnnotationsExtensions.dll
+G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\bin\Debug\Devtalk.EF.CodeFirst.dll
+G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\bin\Debug\EntityFramework.dll
+G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\bin\Debug\WebActivator.dll
+G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\bin\Debug\EntityFramework.xml
+G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\obj\Debug\CodedHomes.Models.csprojResolveAssemblyReference.cache
+G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\obj\Debug\CodedHomes.Models.dll
+G:\Web Projects\CodedHomesDefaultWeb\CodedHomes.Models\obj\Debug\CodedHomes.Models.pdb
