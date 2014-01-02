@@ -1,4 +1,5 @@
 ﻿using CodedHomes.Data;
+using CodedHomes.Data.Configuration;
 using CodedHomes.Web.Models;
 using System;
 using System.Data.Entity;
@@ -27,9 +28,8 @@ namespace CodedHomes.Web.Filters
         {
             public SimpleMembershipInitializer()
             {
-                DataContext init = new DataContext();
-                init.Database.Initialize(true);
-                Database.SetInitializer<UsersContext>(null);
+
+               // Database.SetInitializer(new CustomDatabaseInitializerUsers());
 
                 try
                 {

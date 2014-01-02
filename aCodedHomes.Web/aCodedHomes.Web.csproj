@@ -204,6 +204,7 @@
     <Compile Include="Controllers\api\HomesAPIController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\HomesController.cs" />
+    <Compile Include="Filters\CustomDatabaseInitializerUsers.cs" />
     <Compile Include="Filters\ElmahFilter.cs" />
     <Compile Include="Filters\InitializeSimpleMembershipAttribute.cs" />
     <Compile Include="Global.asax.cs">
