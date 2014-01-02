@@ -5,11 +5,12 @@ using System.Data.Entity.Infrastructure;
 using System.Linq;
 
 using CodedHomes.Models;
+using Devtalk.EF.CodeFirst;
 
 namespace CodedHomes.Data.Configuration
 {
     public class CustomDatabaseInitializer :
-        DropCreateDatabaseIfModelChanges<DataContext>
+        DontDropDbJustCreateTablesIfModelChanged<DataContext>
         //CreateDatabaseIfNotExists<DataContext>
     {
         protected override void Seed(DataContext context)
