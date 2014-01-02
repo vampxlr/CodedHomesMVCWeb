@@ -1,0 +1,11 @@
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Admin\bin\CodedHomes.Admin.dll
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Admin\bin\CodedHomes.Admin.pdb
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Admin\bin\CodedHomes.Data.dll
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Admin\bin\EntityFramework.dll
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Admin\bin\CodedHomes.Models.dll
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Admin\bin\CodedHomes.Data.pdb
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Admin\bin\EntityFramework.xml
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Admin\bin\CodedHomes.Models.pdb
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Admin\obj\Debug\CodedHomes.Admin.csprojResolveAssemblyReference.cache
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Admin\obj\Debug\CodedHomes.Admin.dll
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Admin\obj\Debug\CodedHomes.Admin.pdb

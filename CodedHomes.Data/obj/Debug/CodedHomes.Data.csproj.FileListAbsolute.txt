@@ -1,0 +1,11 @@
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Data\bin\Debug\CodedHomes.Data.dll.config
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Data\bin\Debug\CodedHomes.Data.dll
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Data\bin\Debug\CodedHomes.Data.pdb
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Data\bin\Debug\CodedHomes.Models.dll
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Data\bin\Debug\DataAnnotationsExtensions.dll
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Data\bin\Debug\EntityFramework.dll
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Data\bin\Debug\CodedHomes.Models.pdb
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Data\bin\Debug\EntityFramework.xml
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Data\obj\Debug\CodedHomes.Data.csprojResolveAssemblyReference.cache
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Data\obj\Debug\CodedHomes.Data.dll
+E:\torrents\HTML5 Line of Business Apps with Bootstrap, MVC4 and Web API\html5-line-of-business-applications\CodedHomes\CodedHomes.Data\obj\Debug\CodedHomes.Data.pdb
