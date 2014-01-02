@@ -36,7 +36,7 @@ namespace CodedHomes.Data
 
         //public DataContext()
         //    : base(nameOrConnectionString: DataContext.ConnectionStringName) {}
-
+         
          public DataContext()
             : base(nameOrConnectionString: "CodedHomesDEMO") { }
         
