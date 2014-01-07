@@ -7,7 +7,7 @@ namespace CodedHomes.Web.Models
         public bool CanEdit
         {
             get 
-            {
+            { 
                 return  Roles.IsUserInRole("admin") ||
                         Roles.IsUserInRole("manager") ||
                         Roles.IsUserInRole("user");
