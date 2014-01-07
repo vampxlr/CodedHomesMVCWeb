@@ -290,6 +290,8 @@
     <Content Include="img\homes\home-3.jpg" />
     <Content Include="img\homes\no-image-large.png" />
     <Content Include="img\homes\no-image.png" />
+    <Content Include="img\logo-large.png" />
+    <Content Include="img\logo.png" />
     <Content Include="img\property.jpg" />
     <Content Include="o.html" />
     <Content Include="offline.html" />
