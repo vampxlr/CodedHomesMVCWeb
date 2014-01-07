@@ -14,7 +14,7 @@ using CodedHomes.Web.Models;
 namespace CodedHomes.Web.Controllers
 {
     [Authorize]
-    [InitializeSimpleMembership]
+    //[InitializeSimpleMembership]
     public class AccountController : Controller
     {
         //

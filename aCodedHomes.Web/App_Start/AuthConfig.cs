@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using Microsoft.Web.WebPages.OAuth;
 using CodedHomes.Web.Models;
+using WebMatrix.WebData;
 
 namespace CodedHomes.Web
 {
@@ -27,6 +28,13 @@ namespace CodedHomes.Web
             //    appSecret: "");
 
             //OAuthWebSecurity.RegisterGoogleClient();
+            WebSecurity.InitializeDatabaseConnection(
+                        Config.ConnectionStringName,
+                        Config.UsersTableName,
+                        Config.UsersPrimaryKeyColumnName,
+                        Config.UsersUserNameColumnName,
+                        autoCreateTables: true);
+
         }
     }
 }
