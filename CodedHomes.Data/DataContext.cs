@@ -32,6 +32,8 @@ namespace CodedHomes.Data
         static DataContext()
         {
            // Database.SetInitializer(new CustomDatabaseInitializer());
+            Database.SetInitializer<DataContext>(null);
+           
         }
 
         //public DataContext()
