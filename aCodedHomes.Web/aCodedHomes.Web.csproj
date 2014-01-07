@@ -278,8 +278,6 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <None Include="Scripts\lib\jquery-1.9.1.intellisense.js" />
-    <Content Include="img\coded-homes-logo-large.png" />
-    <Content Include="img\coded-homes-logo.png" />
     <Content Include="img\glyphicons-halflings-white.png" />
     <Content Include="img\glyphicons-halflings.png" />
     <Content Include="img\homes\1-995318.jpg" />
