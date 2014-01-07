@@ -1,4 +1,6 @@
 ﻿using CodedHomes.Data;
+using CodedHomes.Web.Models;
+using System.Data.Entity;
 using System.Web.Http;
 using System.Web.Mvc;
 using System.Web.Optimization;
@@ -10,7 +12,8 @@ namespace CodedHomes.Web
     {
         protected void Application_Start()
         {
-           
+            Database.SetInitializer<DataContext>(null);
+            Database.SetInitializer<UsersContext>(null);
             AreaRegistration.RegisterAllAreas();
 
             WebApiConfig.Register(GlobalConfiguration.Configuration);
