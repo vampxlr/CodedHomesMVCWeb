@@ -60,6 +60,7 @@
     <Compile Include="ApplicationUnit.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Configuration\CustomDatabaseInitializer.cs" />
     <Compile Include="Configuration\HomeConfiguration.cs" />
     <Compile Include="Configuration\MembershipConfiguration.cs" />
     <Compile Include="Configuration\OAuthMembershipConfiguration.cs" />

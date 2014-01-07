@@ -12,7 +12,7 @@ namespace CodedHomes.Web.Controllers
         public ActionResult Index()
         {
             DataContext context = new DataContext();
-            context.Database.Initialize(true);
+            //context.Database.Initialize(true);
             return View();
         }
     }

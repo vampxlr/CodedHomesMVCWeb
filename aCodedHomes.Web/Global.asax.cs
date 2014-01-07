@@ -12,8 +12,8 @@ namespace CodedHomes.Web
     {
         protected void Application_Start()
         {
-            Database.SetInitializer<DataContext>(null);
-            Database.SetInitializer<UsersContext>(null);
+            //Database.SetInitializer<DataContext>(null);
+            //Database.SetInitializer<UsersContext>(null);
             AreaRegistration.RegisterAllAreas();
 
             WebApiConfig.Register(GlobalConfiguration.Configuration);
