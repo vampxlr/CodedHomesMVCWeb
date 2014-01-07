@@ -12,12 +12,12 @@ namespace CodedHomes.Web
     {
         protected void Application_Start()
         {
-            //Database.SetInitializer<DataContext>(null);
-            //Database.SetInitializer<UsersContext>(null);
+            Database.SetInitializer<DataContext>(null);
+            Database.SetInitializer<UsersContext>(null);
             AreaRegistration.RegisterAllAreas();
 
             WebApiConfig.Register(GlobalConfiguration.Configuration);
-            FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
+           // FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             AuthConfig.RegisterAuth();
